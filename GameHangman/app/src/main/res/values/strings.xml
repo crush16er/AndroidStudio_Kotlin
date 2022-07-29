@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2_2_Kotlin</string>
+    <string-array name="words_array">
+        <item>MERCURY</item>
+        <item>VENUS</item>
+        <item>EARTH</item>
+        <item>MARS</item>
+        <item>COMPUTER</item>
+        <item>ANDROID</item>
+        <item>WATERMELON</item>
+        <item>BANANA</item>
+        <item>RASPBERRY</item>
+    </string-array>
+</resources>
